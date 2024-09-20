@@ -1,6 +1,6 @@
 ## Hello👋
 
-I'm Zaïd, a Bachelor student at the heig-vd in Yverdon-les-bains.
+I'm Zaïd. A Bachelor student at the heig-vd in Yverdon-les-bains.
 
 I'm currently working on a static website :
 https://swisshappycat.ch/
