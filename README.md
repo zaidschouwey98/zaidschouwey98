@@ -1,9 +1,7 @@
 ## Hello👋
 
-I'm Zaïd ! A Bachelor student at the heig-vd in Yverdon-les-bains.
+I'm Zaïd! A recently graduated Application Engineer from HEIG-VD in Yverdon-les-Bains.
 
-I'm currently working on a static website :
-https://swisshappycat.ch/
 <!--
 **zaidschouwey98/zaidschouwey98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
