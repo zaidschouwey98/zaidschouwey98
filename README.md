@@ -24,8 +24,8 @@ I've been building software since my CFC in 2018 - from front-end components to 
 
 ## Experience
 
-- **Harps SA** — Developer consultant · Front-end redesign, reusable web components in Stencil.js
-- **Arc Logiciels SA** — Developer intern · UI development in ReactJS
+- **Harps SA** - Developer consultant · Front-end redesign, reusable web components in Stencil.js
+- **Arc Logiciels SA** - Developer intern · UI development in ReactJS
 
 ---
 
