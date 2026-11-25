@@ -2,7 +2,7 @@
 
 Software engineer based in Switzerland, freshly graduated from HEIG-VD (Bachelor HES-SO in Computer Science, 2026).
 
-I've been building software since my CFC in 2018 — from front-end components to mobile apps and backend services. I care about code that actually ships and works for real users.
+I've been building software since my CFC in 2018 - from front-end components to mobile apps and backend services. I care about code that actually ships and works for real users.
 
 ---
 
